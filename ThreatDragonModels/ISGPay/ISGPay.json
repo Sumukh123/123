@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "ISGPay",
+    "owner": "Sumukh Kelkar",
+    "description": "Payment Gateway Application"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "ISGPay",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Pankaj K"
+  }
+}

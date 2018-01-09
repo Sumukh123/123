@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "CCMS",
+    "owner": "Securview Security Consultant",
+    "description": "Genius Card Management solution is a hosted platform providing end to end solution to large financial institutions and banks. It is built using robust technology platform concepts that can provide ease of scalability in terms of handling large transaction volumes. The modular architecture of the solution allows for quick addition of new functionality and services. This is vital for all organizations that have to compete and innovate in a dynamic market place.\nThe current solution offers a complete end to end handling of infrastructure and operations through client hosted or on ISP model.\nThe Credit Card Management Solutions caters to needs of the entire card management functionality. It automates facilities such as processing of a new credit card application, verification of card applications, sanctioning the applications, embossing the data, generating the reports etc."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "CCMS",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Pankaj Khandelwal"
+  }
+}

@@ -218,7 +218,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 6",
+                      "text": "JDBC",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -670,6 +670,10 @@
                 {
                   "x": 551,
                   "y": 322
+                },
+                {
+                  "x": 524,
+                  "y": 323
                 }
               ],
               "id": "28c56e1c-d972-48c9-93b5-105326dafadd",
@@ -678,7 +682,7 @@
                   "position": 0.5,
                   "attrs": {
                     "text": {
-                      "text": "flow 20",
+                      "text": "JDBC",
                       "font-weight": "400",
                       "font-size": "small"
                     }
@@ -687,6 +691,8 @@
               ],
               "z": 27,
               "hasOpenThreats": false,
+              "isEncrypted": true,
+              "protocol": "2483",
               "attrs": {
                 ".marker-target": {
                   "class": "marker-target hasNoOpenThreats isInScope"
